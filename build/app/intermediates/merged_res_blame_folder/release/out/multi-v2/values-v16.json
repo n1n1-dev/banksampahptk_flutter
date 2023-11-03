@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.bank_sampah_app2023.app-mergeReleaseResources-16:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Yunita\\.gradle\\caches\\transforms-3\\742b554cf5c7cb7bdcfd264696b34620\\transformed\\core-1.9.0\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        }
+    ]
+}

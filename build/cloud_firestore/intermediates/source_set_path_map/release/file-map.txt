@@ -1,0 +1,16 @@
+io.flutter.plugins.firebase.firestore.cloud_firestore-jetified-play-services-basement-18.1.0-0 C:\Users\Yunita\.gradle\caches\transforms-3\006bbe5a907188cb8f989af846bf78a4\transformed\jetified-play-services-basement-18.1.0\res
+io.flutter.plugins.firebase.firestore.cloud_firestore-jetified-window-java-1.0.0-beta04-1 C:\Users\Yunita\.gradle\caches\transforms-3\5a5a752a30ef8f927b89ee5d02868eb5\transformed\jetified-window-java-1.0.0-beta04\res
+io.flutter.plugins.firebase.firestore.cloud_firestore-jetified-firebase-common-20.3.3-2 C:\Users\Yunita\.gradle\caches\transforms-3\7b0bedee7051420cb6e57373566adbb4\transformed\jetified-firebase-common-20.3.3\res
+io.flutter.plugins.firebase.firestore.cloud_firestore-jetified-window-1.0.0-beta04-3 C:\Users\Yunita\.gradle\caches\transforms-3\86a1a9f6804c8fc691a553244f0de821\transformed\jetified-window-1.0.0-beta04\res
+io.flutter.plugins.firebase.firestore.cloud_firestore-jetified-annotation-experimental-1.1.0-4 C:\Users\Yunita\.gradle\caches\transforms-3\9199ba66b232e9fc78c08871acc9a68c\transformed\jetified-annotation-experimental-1.1.0\res
+io.flutter.plugins.firebase.firestore.cloud_firestore-core-1.6.0-5 C:\Users\Yunita\.gradle\caches\transforms-3\9df09c476a8966dff0ab2c589910f62f\transformed\core-1.6.0\res
+io.flutter.plugins.firebase.firestore.cloud_firestore-jetified-play-services-base-18.0.1-6 C:\Users\Yunita\.gradle\caches\transforms-3\c2a790f66370431fc16fd1435b68b6ea\transformed\jetified-play-services-base-18.0.1\res
+io.flutter.plugins.firebase.firestore.cloud_firestore-main-7 C:\Users\Yunita\AppData\Local\Pub\Cache\hosted\pub.dev\cloud_firestore-4.8.5\android\src\main\res
+io.flutter.plugins.firebase.firestore.cloud_firestore-release-8 C:\Users\Yunita\AppData\Local\Pub\Cache\hosted\pub.dev\cloud_firestore-4.8.5\android\src\release\res
+io.flutter.plugins.firebase.firestore.cloud_firestore-pngs-9 D:\FLUTTER\DEV\BANK SAMPAH\bank_sampah_app2023\build\cloud_firestore\generated\res\pngs\release
+io.flutter.plugins.firebase.firestore.cloud_firestore-resValues-10 D:\FLUTTER\DEV\BANK SAMPAH\bank_sampah_app2023\build\cloud_firestore\generated\res\resValues\release
+io.flutter.plugins.firebase.firestore.cloud_firestore-rs-11 D:\FLUTTER\DEV\BANK SAMPAH\bank_sampah_app2023\build\cloud_firestore\generated\res\rs\release
+io.flutter.plugins.firebase.firestore.cloud_firestore-mergeReleaseResources-12 D:\FLUTTER\DEV\BANK SAMPAH\bank_sampah_app2023\build\cloud_firestore\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.flutter.plugins.firebase.firestore.cloud_firestore-mergeReleaseResources-13 D:\FLUTTER\DEV\BANK SAMPAH\bank_sampah_app2023\build\cloud_firestore\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.flutter.plugins.firebase.firestore.cloud_firestore-merged_res-14 D:\FLUTTER\DEV\BANK SAMPAH\bank_sampah_app2023\build\cloud_firestore\intermediates\merged_res\release
+io.flutter.plugins.firebase.firestore.cloud_firestore-packaged_res-15 D:\FLUTTER\DEV\BANK SAMPAH\bank_sampah_app2023\build\firebase_core\intermediates\packaged_res\release
